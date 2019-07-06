@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by tt on 2017/12/14.
+ * Created by k on 2017/12/14.
  */
 class ConcreteAggregate implements Aggregate {
     private List list = new ArrayList();

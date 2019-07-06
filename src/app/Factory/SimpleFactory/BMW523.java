@@ -1,7 +1,7 @@
 package app.Factory.SimpleFactory;
 
 /**
- * Created by tt on 2017/12/13.
+ * Created by k on 2017/12/13.
  * 具体产品类
  */
 public class BMW523 extends BMW{

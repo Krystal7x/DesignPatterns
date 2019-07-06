@@ -1,7 +1,7 @@
 package app.Observer;
 
 /**
- * Created by tt on 2017/12/12.
+ * Created by k on 2017/12/12.
  */
 public class ConcreteObserver2 implements Observer
 {

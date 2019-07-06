@@ -3,7 +3,7 @@ package app.Observer;
 import java.util.ArrayList;
 import java.util.List;
 /**
- * Created by tt on 2017/12/12.
+ * Created by k on 2017/12/12.
  */
 
 public class ConcreteSubject implements Subject{

@@ -1,7 +1,7 @@
 package app.Strategy;
 
 /**
- * Created by tt on 2017/12/13.
+ * Created by k on 2017/12/13.
  */
 public class CDefend1 implements IDefendBehavior
 {

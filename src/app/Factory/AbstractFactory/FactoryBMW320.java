@@ -1,7 +1,7 @@
 package app.Factory.AbstractFactory;
 
 /**
- * Created by tt on 2017/12/13.
+ * Created by k on 2017/12/13.
  */
 public class FactoryBMW320 implements AbstractFactory{
 
